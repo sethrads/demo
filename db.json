@@ -9,6 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "inReview": "true"
+    "inReview": "true", 
+    "sendHeaders": "true"
   }
 }
